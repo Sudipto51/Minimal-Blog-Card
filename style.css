@@ -11,22 +11,27 @@ body{
 }
 .card-container{
     width:358px;
-    height: 320px ;
+    height: 350px ;
     border-radius: 10px;
-    background-color: #e8b1fdbe;
-    padding: 15px;
+    background-color: white;
+    padding: 20px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
-.txt{
-    background-color: #fff;
-    padding: 10px;
-    border-radius: 0px 0px 10px 10px;
-}
+
 img{
     width: 100%;
     height: 152px;
+    margin-bottom: 6px;
+    border-radius: 10px;
+}
+button{
+    font-size: 0.625rem;
+    color: #883AE1;
+    background-color: #E6D6FC;
+    border-radius: 30px;
+    border: none;
+    padding: 10px;
     margin-bottom: 16px;
-    border-radius: 10px 10px 0px 0px;
 }
 h3{
     font-size: 1.125rem; 
@@ -39,4 +44,7 @@ p{
 }
 small{
     font-size: 0.75rem;
+}
+hr{
+    margin-bottom: 5px;
 }
