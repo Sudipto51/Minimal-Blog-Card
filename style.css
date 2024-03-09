@@ -35,16 +35,19 @@ button{
 }
 h3{
     font-size: 1.125rem; 
-    font-weight: bold;
+    
     margin-bottom: 6px;
 }
 p{
     font-size: 0.875rem;
     margin-bottom: 20px;
+    color: #6C727F;
 }
 small{
     font-size: 0.75rem;
+    color: #6C727F;
 }
 hr{
     margin-bottom: 5px;
+    width: 100%;
 }
